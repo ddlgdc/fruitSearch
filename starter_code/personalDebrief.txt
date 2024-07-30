@@ -43,3 +43,18 @@ In process thoughs -
  - removed useSuggestion function, it is not needed 
  - when suggestion is clicked, it replaces whatever is 
  in the search box 
+
+4th commit - 
+ - in this commit css is done for elements
+ - search bar gets autofilled when suggestion is clicked 
+ - hover effects over focused suggestion 
+
+Overall strength and weakness -
+ - confident in JS skills and workflow 
+ - troubles with css and syling elements to work with one 
+ another 
+ - cutting down workflow to use less code 
+ - possible issues with text elements that are not letters 
+ - css stlying can cause problems if browser changes size etc 
+ or a different device is used 
+ 
