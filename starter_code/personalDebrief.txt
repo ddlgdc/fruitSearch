@@ -1,0 +1,26 @@
+Project breakdown 
+
+Overall view - 
+ - the assignment requires a search bar element that auto fills 
+ suggestions 
+ - fruit array is provided in the project assignment
+ - when typing, search bar should promt autofill suggestions 
+ for fruits that contain the letters/words 
+ - ex. app should promt fruit like apple and pineapple 
+
+What we begin with - 
+ - a search bar template is provided in the assignment folder 
+ - script.js file and css file, needs completion
+
+Ideas -
+ - given that a search bar requires typing and keys being pressed
+ event listners such as 'onkeypress', 'onsearch', and 'onsubmit' 
+ may be useful for this assignment 
+
+
+In process thoughs - 
+ - function searchHandler now collects user input and stores it 
+ in an array 
+ - it also logs in the console the typed character and the array
+ in string form 
+ - the function also removes the character if backspace is pressed
