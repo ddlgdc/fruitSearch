@@ -33,3 +33,13 @@ In process thoughs -
  - then, filters through the fruit array to see what fruit contains 
  the typedWord 
  - it logs the filtered results 
+
+3rd commit - 
+ - when filteredRes has the filtered words, it calls 
+ the showSuggestions function to create li's for each 
+ filteredRes word 
+ - event listener is added to each li 
+ - suggestions is now displayed on screen as a list 
+ - removed useSuggestion function, it is not needed 
+ - when suggestion is clicked, it replaces whatever is 
+ in the search box 
