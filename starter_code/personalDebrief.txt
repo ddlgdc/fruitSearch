@@ -19,8 +19,17 @@ Ideas -
 
 
 In process thoughs - 
+1st commit - 
  - function searchHandler now collects user input and stores it 
  in an array 
  - it also logs in the console the typed character and the array
  in string form 
  - the function also removes the character if backspace is pressed
+
+2nd commit - 
+ - searchHandler function now calls search() function 
+ - searchHandler logs the typed word in string form 
+ - search function alters typedWord array to a string 
+ - then, filters through the fruit array to see what fruit contains 
+ the typedWord 
+ - it logs the filtered results 
